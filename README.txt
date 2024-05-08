@@ -1,5 +1,8 @@
 README.md
 
+URL Link:-
+https://github.com/srisrihari/fibonacci_project
+
 # Fibonacci Calculator
 
 This Python project provides functions for calculating Fibonacci numbers both recursively and iteratively. Additionally, it includes a Cython implementation for accelerating the recursive Fibonacci calculation.
@@ -21,7 +24,7 @@ This Cython module provides an accelerated implementation of the recursive Fibon
 
 ## Usage:
 
-1. **Importing the Modules**:
+1. Importing the Modules:
    
    ```python
    import fibonacci
